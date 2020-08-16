@@ -71,9 +71,11 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  transition: all 0.7s ease;
   &:hover, &:active {
     color: $blue;
+    transition: all 0.7s ease;
   }
 }
 
@@ -177,7 +179,14 @@ img {
 
   img {
     border-radius: 5px;
-  }
+    height: 70px;
+    transition: all 1s ease;
+    &:hover {
+      -moz-filter: saturate(200%);
+      -webkit-filter: saturate(200%);
+      filter: saturate(200%);
+      transition: all 1s ease-in-out;
+    }
 }
 
 .site-info {
@@ -268,6 +277,17 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+  img {
+	transition: all 1s ease;
+	&:hover {
+	-moz-filter: saturate(200%);
+	-webkit-filter: saturate(200%);
+	filter: saturate(200%);
+	transition: -webkit-filter 1s ease-in-out;
+	transition: -moz-filter 1s ease-in-out;
+	transition: filter 1s ease-in-out;
+    	}
   }
 }
 
