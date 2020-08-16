@@ -24,22 +24,22 @@ Some things of note to emerge from the discussion were:
 
 1. **Clarity about career aspirations:** To our surprise most of the students had an inkling of their future aspirations (unlike us at that age). For some, these choices came from a strong interest or ideal and for some, through more grounded means such as having a relative working in a particular profession. As a team, we believe both these means to be equally valid. Two of the more popular choices were “policeman” & “commercial pilot”, as mentioned by multiple students. One student having a strong drive to discover yet unknown facts about India’s rich past mentioned “archaeologist” as a career aspiration.
 
-**2. Academic interests:** Some of the most popular subjects among the students were Mathematics and Science with social science to be a usual dislike. 
+2. **Academic interests:** Some of the most popular subjects among the students were Mathematics and Science with social science to be a usual dislike. 
 
-**3. Hobbies:** Most students mentioned cricket & gaming to be among their favorites. 
+3. **Hobbies:** Most students mentioned cricket & gaming to be among their favorites. 
 
 
 The following were some of the strengths & weakness witnessed among the group:
 
-**1. Basic clarity regarding career:** Most students were clear about what they wanted to pursue as a career and why. This can be seen as a sign of interest in their futures and prior thinking on the same.
+1. **Basic clarity regarding career:** Most students were clear about what they wanted to pursue as a career and why. This can be seen as a sign of interest in their futures and prior thinking on the same.
 
-**2. Strong academic interests:** Overall each student had strong favorites among subjects. This is encouraging because career aspirations often stem from hobbies & academic interests in one’s school life.
+2. **Strong academic interests:** Overall each student had strong favorites among subjects. This is encouraging because career aspirations often stem from hobbies & academic interests in one’s school life.
 
-**3. Limited extracurricular pursuits:** The range and depth of the hobbies pursued were often limited, with students being often unable to answer basic questions about them.
+3. **Limited extracurricular pursuits:** The range and depth of the hobbies pursued were often limited, with students being often unable to answer basic questions about them.
 
-**4. Limited help outside school in academic pursuits:** Most of the students mentioned self-studying as the primary manner of after-school study with little to no help from parents or siblings. 
+4. **Limited help outside school in academic pursuits:** Most of the students mentioned self-studying as the primary manner of after-school study with little to no help from parents or siblings. 
 
-**5. Lack of knowledge about career range & career depth:** Very limited career options were mentioned during the session. While this can be reflective of the job market itself, we believe a more richer variety should be known to students. Apart from this, students when asked further questions about their career choices were often seen to have misconceptions with hardly any knowledge of how to reach those career goals. 
+5. **Lack of knowledge about career range & career depth:** Very limited career options were mentioned during the session. While this can be reflective of the job market itself, we believe a more richer variety should be known to students. Apart from this, students when asked further questions about their career choices were often seen to have misconceptions with hardly any knowledge of how to reach those career goals. 
 
 The students showed an intrinsic motivation to become respectful in society through a profession they love, but there was also a lack of deeper understanding of the paths to achieve that. 
 
@@ -50,14 +50,14 @@ Had Samir been told about the difference between Architecture and Civil Engineer
 
 We want to give the students an extensive understanding of the professional aspirations that they can pursue. We intend to do this using a three-pronged approach mentioned below:
 
-**1. Breadth of professions:** For this, we want the student to understand what are the different professions that they can pursue and what is the difference between them
+1. **Breadth of professions:** For this, we want the student to understand what are the different professions that they can pursue and what is the difference between them
 
 **Metric:** We can have a comparison questionnaire, where the students individually in session 1 will be asked to tell the difference between two professions. Points will be given according to the number of differences. A similar method will be used in the last session and we would see if there is any improvement in the number of points for a particular student.
 
-**2. Depth of a profession:** FOr this, we want the student to understand the deeper intricacies of a profession for example the work aspect, risks and rewards associated, and work-life balance of a profession
+2. **Depth of a profession:** FOr this, we want the student to understand the deeper intricacies of a profession for example the work aspect, risks and rewards associated, and work-life balance of a profession
 
 **Metric:** In the above mentioned questionnaire, we will have a game where students need to match professions with their characteristics. We will conduct this game during session 1 and the last session and compare the results. The characteristics can be risks and rewards involved, amount of leisure time etc.
 
-**3. Path to a profession:** For this, we want the student to understand the requirements that might be needed for pursuing a profession.
+3. **Path to a profession:** For this, we want the student to understand the requirements that might be needed for pursuing a profession.
 
 **Metric:** In the above mentioned questionnaire, we will have a “Fill in the blanks” kind of a sequence game, where the student needs to decide on the route taken for ultimately becoming a professional. In this, positive reinforcements will be given in the form of points based on the correct choice. Scores from Session 1 and last session will be compared.
