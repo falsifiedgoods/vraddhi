@@ -20,13 +20,13 @@ The meeting took place over Zoom at 10:00 in the morning and was attended by our
 This first session was mainly meant for getting introduced to & breaking ice with the students. We also wanted them to know them better in terms of their self-knowledge regarding their interests & future aspirations to design a viable plan for the upcoming sessions. The team first introduced themselves to the students and then we encouraged the students to introduce themselves. This was done for all the fourteen students present. These introductions were very interactive in the sense that we as a team tried to encourage the students to speak freely & worked to know them better through additional questions where appropriate. The following were the broad areas around which the students introduced themselves: from where they belonged, languages known, hobbies pursued, likes & dislikes among academic subjects & career aspirations, if any.    
 
 Some things of note to emerge from the discussion were:
-
+<br>
+<br>
 1. **Clarity about career aspirations:** To our surprise most of the students had an inkling of their future aspirations (unlike us at that age). For some, these choices came from a strong interest or ideal and for some, through more grounded means such as having a relative working in a particular profession. As a team, we believe both these means to be equally valid. Two of the more popular choices were “policeman” & “commercial pilot”, as mentioned by multiple students. One student having a strong drive to discover yet unknown facts about India’s rich past mentioned “archaeologist” as a career aspiration.
 
 2. **Academic interests:** Some of the most popular subjects among the students were Mathematics and Science with social science to be a usual dislike. 
 
 3. **Hobbies:** Most students mentioned cricket & gaming to be among their favorites. 
-
 
 The following were some of the strengths & weakness witnessed among the group:
 
