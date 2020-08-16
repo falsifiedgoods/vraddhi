@@ -47,7 +47,7 @@ The following were some of the strengths & weakness witnessed among the group:
 
 5.	**Lack of knowledge about career range & career depth:** Very limited career options were mentioned during the session. Students also had misconceptions with hardly any knowledge of how to reach those career goals.  
 
-## Intervention Need
+## Need for Intervetion
 The students showed an intrinsic motivation to become respectful in society through a profession they love, but there was also a lack of deeper understanding of the paths to achieve that. 
 
 For example, Samir wanted to be a Civil Engineer because he loved to design buildings on a paper before constructing them. When we said that this passion of his is related to architecture, he spaced out. This shows that the students didn't have much idea about the subtleties of the profession. Such an incident led us to believe that a comprehensive understanding of professions needs to be there, and we can plan an intervention to bridge these gaps.
