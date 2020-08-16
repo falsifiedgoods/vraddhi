@@ -37,7 +37,7 @@ The following were some of the strengths & weakness witnessed among the group:
 
 3. **Limited extracurricular pursuits:** The range and depth of the hobbies pursued were often limited, with students being often unable to answer basic questions about them.
 
-4. **Limited help outside school in academic pursuits:** Most of the students mentioned self-studying as the primary manner of after-school study with little to no help from parents or siblings. 
+4. **Limited academic help outside school:** Most of the students mentioned self-studying as the primary manner of after-school study with little to no help from parents or siblings. 
 
 5. **Lack of knowledge about career range & career depth:** Very limited career options were mentioned during the session. While this can be reflective of the job market itself, we believe a more richer variety should be known to students. Apart from this, students when asked further questions about their career choices were often seen to have misconceptions with hardly any knowledge of how to reach those career goals. 
 
