@@ -1,15 +1,19 @@
 ---
 layout: post
-title: back to school.
+title: Back to School
 published: true
 ---
-Interaction Details – 
-Date: 13th August, 2020 
-Mode: Online, Zoom (all students using the app on their parents' phones)
-Attendees: 14/20 male students + Mr. Chirag Parikh* (the class teacher) + our team (five members)
+**Interaction Details** – 
 
-The objective of the interaction was to know the career aspirations of the kids so that we can intervene with a gamified program to enhance their current level of understanding of different professions
+**Date**: 13th August, 2020 
 
+**Mode**: Online, Zoom (_all students using the app on their parents' phones_)
+
+**Attendees**: 14/20 male students + Mr. Chirag Parikh* (the class teacher) + our team (five members)
+
+_The objective of the interaction was to know the career aspirations of the kids so that we can intervene with a gamified program to enhance their current level of understanding of different professions_
+
+## Demographics
 Some notable features of the student demographics (Conducted by an advanced survey) - 
 1.	Most students belonged from Ahmedabad with Gujarati spoken at home. 
 2.	Many students belonged from financially & socially marginalised backgrounds using their parent’s cell phone for connecting to the meeting
@@ -30,6 +34,7 @@ Some notable things to emerge from the discussion were:
 3.	**Hobbies:** Most students mentioned cricket & gaming to be among their favourites. 
 <br>
 
+## Strengths & Weakness
 The following were some of the strengths & weakness witnessed among the group:
 
 1.	**Basic clarity regarding career:** Most students were clear about what they wanted to pursue as a career and why. 
@@ -42,11 +47,13 @@ The following were some of the strengths & weakness witnessed among the group:
 
 5.	**Lack of knowledge about career range & career depth:** Very limited career options were mentioned during the session. Students also had misconceptions with hardly any knowledge of how to reach those career goals.  
 
+## Intervention Need
 The students showed an intrinsic motivation to become respectful in society through a profession they love, but there was also a lack of deeper understanding of the paths to achieve that. 
 
 For example, Samir wanted to be a Civil Engineer because he loved to design buildings on a paper before constructing them. When we said that this passion of his is related to architecture, he spaced out. This shows that the students didn't have much idea about the subtleties of the profession. Such an incident led us to believe that a comprehensive understanding of professions needs to be there, and we can plan an intervention to bridge these gaps.
 <br>
 
+## Goals
 We want to give the students an extensive understanding of the professional aspirations that they can pursue. We intend to do this using a three-pronged approach which is mentioned below - 
 
 1.	**Breadth of professions:** Different professions that students can pursue and what are the differences between them.
