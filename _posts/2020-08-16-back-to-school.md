@@ -1,4 +1,6 @@
 ---
+layout: post
+title: back to school.
 published: true
 ---
 On Thursday (13th July, 2020), we had the first session with school students for our course, Gamification, Technology & Learning Motivation. We had been assigned a class of grade nine (Gujarati medium), with twenty students, all boys at a government school located in Ahmedabad. The course requires us to design an intervention plan using elements from gamification theory to provide learning to these students in a subject matter of our choosing from a set of relevant topics. Among these, we chose “Education & Career Aspirations”. 
