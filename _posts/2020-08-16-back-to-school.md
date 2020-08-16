@@ -25,7 +25,8 @@ Some things of note to emerge from the discussion were:
 
 2. **Academic interests:** Some of the most popular subjects among the students were Mathematics and Science with social science to be a usual dislike. 
 
-3. **Hobbies:** Most students mentioned cricket & gaming to be among their favorites. 
+3. **Hobbies:** Most students mentioned cricket & gaming to be among their favorites.
+
 <br>
 The following were some of the strengths & weakness witnessed among the group:
 
