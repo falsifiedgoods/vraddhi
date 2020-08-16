@@ -49,10 +49,10 @@ Had Samir been told about the difference between Architecture and Civil Engineer
 <br> 
 We want to give the students an extensive understanding of the professional aspirations that they can pursue. We intend to do this using a three-pronged approach mentioned below:
 
-1. **Breadth of professions:** For this, we want the student to understand what are the different professions that they can pursue and what is the difference between them
+1. **Breadth of professions:** For this, we want the student to understand what are the different professions that they can pursue and what is the difference between them.
 **Metric:** We can have a comparison questionnaire, where the students individually in session 1 will be asked to tell the difference between two professions. Points will be given according to the number of differences. A similar method will be used in the last session and we would see if there is any improvement in the number of points for a particular student.
 
-2. **Depth of a profession:** FOr this, we want the student to understand the deeper intricacies of a profession for example the work aspect, risks and rewards associated, and work-life balance of a profession
+2. **Depth of a profession:** FOr this, we want the student to understand the deeper intricacies of a profession for example the work aspect, risks and rewards associated, and work-life balance of a profession.
 **Metric:** In the above mentioned questionnaire, we will have a game where students need to match professions with their characteristics. We will conduct this game during session 1 and the last session and compare the results. The characteristics can be risks and rewards involved, amount of leisure time etc.
 
 3. **Path to a profession:** For this, we want the student to understand the requirements that might be needed for pursuing a profession.
