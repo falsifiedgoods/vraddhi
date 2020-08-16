@@ -21,7 +21,7 @@ This first session was mainly meant for getting introduced to & breaking ice wit
 
 Some things of note to emerge from the discussion were:
 
-**1. Clarity about career aspirations:** To our surprise most of the students had an inkling of their future aspirations (unlike us at that age). For some, these choices came from a strong interest or ideal and for some, through more grounded means such as having a relative working in a particular profession. As a team, we believe both these means to be equally valid. Two of the more popular choices were “policeman” & “commercial pilot”, as mentioned by multiple students. One student having a strong drive to discover yet unknown facts about India’s rich past mentioned “archaeologist” as a career aspiration.
+1. **Clarity about career aspirations:** To our surprise most of the students had an inkling of their future aspirations (unlike us at that age). For some, these choices came from a strong interest or ideal and for some, through more grounded means such as having a relative working in a particular profession. As a team, we believe both these means to be equally valid. Two of the more popular choices were “policeman” & “commercial pilot”, as mentioned by multiple students. One student having a strong drive to discover yet unknown facts about India’s rich past mentioned “archaeologist” as a career aspiration.
 
 **2. Academic interests:** Some of the most popular subjects among the students were Mathematics and Science with social science to be a usual dislike. 
 
