@@ -15,9 +15,8 @@ The meeting took place over Zoom at 10:00 in the morning and was attended by our
 
 4. The following graph shows the age-wise distribution of the students:
 
-![Age distribution among students]({{site.baseurl}}/images/agedist.png)
-
-
+![Age distribution among students]({{site.baseurl}}/images/agedist.png)  
+  
 This first session was mainly meant for getting introduced to & breaking ice with the students. We also wanted them to know them better in terms of their self-knowledge regarding their interests & future aspirations to design a viable plan for the upcoming sessions. The team first introduced themselves to the students and then we encouraged the students to introduce themselves. This was done for all the fourteen students present. These introductions were very interactive in the sense that we as a team tried to encourage the students to speak freely & worked to know them better through additional questions where appropriate. The following were the broad areas around which the students introduced themselves: from where they belonged, languages known, hobbies pursued, likes & dislikes among academic subjects & career aspirations, if any.    
 
 Some things of note to emerge from the discussion were:
