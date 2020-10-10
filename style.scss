@@ -14,13 +14,13 @@
 /**************/
 
 html {
-  font-size: 120%;
+  font-size: 100%;
 }
 
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $black;
+  color: $darkGray;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $garamond;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -70,7 +70,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: underline;
+  text-decoration: none;
   cursor: pointer;
   transition: all 0.7s ease;
   &:hover, &:active {
